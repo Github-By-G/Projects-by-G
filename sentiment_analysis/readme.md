@@ -1,3 +1,10 @@
+### Here's the output;
+
+![Output](https://user-images.githubusercontent.com/83700543/189635044-492d3bb9-bca5-4c96-a7fa-5c7951e6ef0b.png)
+
+
+
+
 # Sentiment Analysis
 
 In this notebook we are going to achieve a decent test accuracy of ~84% using all of the common techniques used for sentiment analysis. In this notebook, we'll implement a model that gets comparable results whilst training significantly faster and using around half of the parameters. More specifically, we'll be implementing the "FastText" model from the paper [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759).
